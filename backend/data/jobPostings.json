@@ -1,0 +1,12 @@
+[
+  { "id": 1, "company": "Amazon", "role": "Frontend Developer", "requiredSkills": ["JavaScript", "React"], "requiredExperience": 2, "location": "New York", "softSkillsRequired": ["Communication", "Teamwork"] },
+  { "id": 2, "company": "Meta", "role": "Backend Developer", "requiredSkills": ["Python", "Django"], "requiredExperience": 4, "location": "Boston", "softSkillsRequired": ["Leadership", "Problem-solving"] },
+  { "id": 3, "company": "State Farm", "role": "Java Developer", "requiredSkills": ["Java", "Spring"], "requiredExperience": 3, "location": "San Francisco", "softSkillsRequired": ["Creativity", "Adaptability"] },
+  { "id": 4, "company": "Netflix", "role": "Software Engineer", "requiredSkills": ["C#", ".NET"], "requiredExperience": 5, "location": "Seattle", "softSkillsRequired": ["Work ethic", "Interpersonal skills"] },
+  { "id": 5, "company": "J.P Morgan", "role": "Full Stack Developer", "requiredSkills": ["JavaScript", "Node.js"], "requiredExperience": 3, "location": "New York", "softSkillsRequired": ["Communication", "Creativity"] },
+  { "id": 6, "company": "Chase", "role": "Python Developer", "requiredSkills": ["Python", "Flask"], "requiredExperience": 5, "location": "Chicago", "softSkillsRequired": ["Problem-solving", "Leadership"] },
+  { "id": 7, "company": "Nvidia", "role": "Senior Java Developer", "requiredSkills": ["Java", "Hibernate"], "requiredExperience": 6, "location": "Austin", "softSkillsRequired": ["Teamwork", "Adaptability"] },
+  { "id": 8, "company": "Google", "role": "Frontend Engineer", "requiredSkills": ["JavaScript", "Vue.js"], "requiredExperience": 2, "location": "Denver", "softSkillsRequired": ["Communication", "Work ethic"] },
+  { "id": 9, "company": "Apple", "role": "iOS Developer", "requiredSkills": ["Swift", "iOS"], "requiredExperience": 4, "location": "San Jose", "softSkillsRequired": ["Creativity", "Interpersonal skills"] },
+  { "id": 10, "company": "Dell", "role": "Embedded Systems Engineer", "requiredSkills": ["C++", "Embedded Systems"], "requiredExperience": 7, "location": "San Diego", "softSkillsRequired": ["Problem-solving", "Leadership"] }
+]

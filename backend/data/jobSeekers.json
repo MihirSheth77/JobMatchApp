@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Raj", "skills": ["Python", "Django"], "experience": 5, "location": "Boston", "softSkills": ["Leadership", "Problem-solving"] },
+    { "id": 2, "name": "Alex", "skills": ["JavaScript", "React"], "experience": 3, "location": "New York", "softSkills": ["Communication", "Teamwork"] },
+    { "id": 3, "name": "Carol", "skills": ["Java", "Spring"], "experience": 2, "location": "San Francisco", "softSkills": ["Adaptability", "Creativity"] },
+    { "id": 4, "name": "Bruno", "skills": ["C#", ".NET"], "experience": 4, "location": "Seattle", "softSkills": ["Work ethic", "Interpersonal skills"] },
+    { "id": 5, "name": "Anthony", "skills": ["JavaScript", "Node.js"], "experience": 3, "location": "New York", "softSkills": ["Communication", "Creativity"] },
+    { "id": 6, "name": "Samantha", "skills": ["Python", "Flask"], "experience": 5, "location": "Chicago", "softSkills": ["Problem-solving", "Leadership"] },
+    { "id": 7, "name": "Eilis", "skills": ["Java", "Hibernate"], "experience": 6, "location": "Austin", "softSkills": ["Teamwork", "Adaptability"] },
+    { "id": 8, "name": "Mithzi", "skills": ["JavaScript", "Vue.js"], "experience": 2, "location": "Denver", "softSkills": ["Communication", "Work ethic"] },
+    { "id": 9, "name": "Sam", "skills": ["Swift", "iOS"], "experience": 4, "location": "San Jose", "softSkills": ["Creativity", "Interpersonal skills"] },
+    { "id": 10, "name": "John", "skills": ["C++", "Embedded Systems"], "experience": 7, "location": "San Diego", "softSkills": ["Problem-solving", "Leadership"] }
+  ]
+  
